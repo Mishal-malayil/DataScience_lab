@@ -8,6 +8,7 @@ print("Matrix B")
 matrix_b = numpy.array([[5, 6], [7, 8]])
 print(matrix_b)
 
+
 print("Dot Product")
 dot_product = numpy.dot(matrix_a, matrix_b)
 print(dot_product)
