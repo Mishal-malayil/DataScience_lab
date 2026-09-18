@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> refs/remotes/origin/main
 Age,StudyHours,Attendance,Assignments,TestScore,Cheated
 20,2,60,3,45,Yes
 22,5,85,8,75,No
@@ -12,8 +9,4 @@ Age,StudyHours,Attendance,Assignments,TestScore,Cheated
 28,2,55,3,40,Yes
 24,7,92,9,88,No
 26,4,75,6,65,No
-<<<<<<< HEAD
-27,3,65,4,50,Yes
-=======
-27,3,65,4,50,Yes
->>>>>>> refs/remotes/origin/main
+
